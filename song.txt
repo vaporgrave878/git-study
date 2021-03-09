@@ -5,8 +5,3 @@ on their battle field
 
 from yhe lines
 shield by shield
-
-some content
-and here either
-end of song
-------------------------------------
